@@ -38,7 +38,7 @@ For this reason, it is planned to investigate computationally and experimentally
 7. Ga2O3 growth with spin coating, Months Range: 12-14,
 8. p-n junction production and characterization of with Ga2O3/Cu2O thin films, Months Range: 14-18,
 
-### Project News*
+### Project News
 
 #### Apr 2022
 * Project is started.
